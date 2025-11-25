@@ -1,1 +1,1 @@
-someFile 
+SOMEFILE
